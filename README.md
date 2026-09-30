@@ -8,7 +8,7 @@ MSc in Economics (Ecole Polytechnique / ENSAE Paris) & BSc/MSc in Applied Mathem
 #### Experience & Research
 * **Bank of France:** Designed deep learning frameworks on large-scale financial datasets (AnaCredit, FIBEN) for corporate default forecasting in addition to causal modeling for policy evaluation.
 * **ARCEP:** Developed a custom Python library implementing Stochastic Frontier Analysis (SFA) to evaluate network operator efficiency on unbalanced panel data. (Repo depp_sfa)
-* **CREST:** Modeled international trade diversion mechanisms; utilized LLMs to map corporate industrial strategies in response to geoeconomic fragmentation. (Repo )
+* **CREST:** Modeled international trade diversion mechanisms; utilized LLMs to map corporate industrial strategies in response to geoeconomic fragmentation. (Repo Research_Assistantship_Geoeconomic_Pressure)
 * **Region Grand Est:** Structured large-scale industrial datasets via APIs for the quantitative evaluation of regional industrial transformation policies.
 
 <!--
