@@ -1,5 +1,3 @@
-### Hi there,
-
 MSc in Economics (Ecole Polytechnique / ENSAE Paris) & BSc/MSc in Applied Mathematics (Telecom Paris). My work focuses on applied econometrics, causal inference, and deep learning for macroeconomic and micro-financial data.
 
 #### What i like to do
