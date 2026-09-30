@@ -1,6 +1,6 @@
 MSc in Economics (Ecole Polytechnique / ENSAE Paris) & BSc/MSc in Applied Mathematics (Telecom Paris). My work focuses on applied econometrics, causal inference, and machine/deep learning for macroeconomic and micro-financial data.
 
-#### What i like to do
+#### What I like to do
 * **Languages:** Python, R, SQL, C, C++, Java, SAS, Stata
 * **Machine & Deep Learning:** Time Series Forecasting, LLMs for textual classification, Double Machine Learning for causal inference
 * **Econometrics:** Causal Inference, Stochastic Frontier Analysis (SFA), Panel Data Analysis
