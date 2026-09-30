@@ -1,4 +1,4 @@
-MSc in Economics (Ecole Polytechnique / ENSAE Paris) & BSc/MSc in Applied Mathematics (Telecom Paris). My work focuses on applied econometrics, causal inference, and deep learning for macroeconomic and micro-financial data.
+MSc in Economics (Ecole Polytechnique / ENSAE Paris) & BSc/MSc in Applied Mathematics (Telecom Paris). My work focuses on applied econometrics, causal inference, and machine/deep learning for macroeconomic and micro-financial data.
 
 #### What i like to do
 * **Languages:** Python, R, SQL, C, C++, Java, SAS, Stata
